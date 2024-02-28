@@ -20,7 +20,7 @@ This project is made with python. The project is about library (borrowing book).
     This menu will ask you  to input which books you want to borrow.
 
 ### Contact information :
-    If you  have some questions or problem. Please contact Firdaus Zamroni Fauzi (firdauszf123@gmail.com)
+If you  have some questions or problem. Please contact Firdaus Zamroni Fauzi (firdauszf123@gmail.com)
 
 ### Closing:
-    Thank you so much for your intention and I hope my capstone project will give benefit and insight for you.
+Thank you so much for your intention and I hope my capstone project will give benefit and insight for you.
